@@ -41,7 +41,6 @@ Please cite our paper if you find our work useful for your research:
   volume={},
   number={},
   pages={1-13},
-  keywords={Transformers;Sentiment analysis;Training;Robustness;Diffusion models;Artificial intelligence;Visualization;Vectors;Semantics;Image color analysis;Multimodal representation;Multimodal sentiment analysis;Multimodal emotion recognition;Multimodal humor detection},
   doi={10.1109/TMM.2025.3645559}}
 ```
 
