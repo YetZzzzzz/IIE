@@ -33,14 +33,14 @@ Downlaod the [BERT-base](https://huggingface.co/google-bert/bert-base-uncased/tr
 ### Citation:
 Please cite our paper if you find our work useful for your research:
 ```
-@ARTICLE{Zhuang2025IIE,
+@article{zhuang2026iie,
   author={Zhuang, Yan and Zhang, Yanru and Deng, Jiawen and Ren, Fuji},
   journal={IEEE Transactions on Multimedia}, 
-  title={Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities}, 
-  year={2025},
-  volume={},
+  title={Intra-Sample and Intra-Modal Enhancement for Multimodal Sentiment Analysis With Missing Modalities}, 
+  year={2026},
+  volume={28},
   number={},
-  pages={1-13},
+  pages={1847-1859},
   doi={10.1109/TMM.2025.3645559}}
 ```
 
