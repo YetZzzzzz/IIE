@@ -20,7 +20,7 @@ Downlaod the [BERT-base](https://huggingface.co/google-bert/bert-base-uncased/tr
 The aligned CMU-MOSI and CMU-MOSEI datasets can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1FW7A-gfbzomKjj_-7ZR8Og?pwd=8xii) with extraction code 8xii, rename the pkl as ```aligned_{dataset}.pkl```. 
 
 ### Run IIE
-For fixed missing scenarios on MOSI and MOSEI datasets, please run the following code by change ```--dataset```:
+For fixed missing scenarios on MOSI and MOSEI datasets, please run the following code by changing ```--dataset``` in ```run.sh```:
 ```
 bash run.sh
 ```
